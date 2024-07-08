@@ -1,0 +1,7 @@
+1) Check for the domain. (abc@xyz.com)
+Here abc is name of the person or identity of the person and xyz.com refers to the domain.
+Make sure that it is same as the company's name.
+2)Go to the company's portal and check what domain they use (in case you are confused about the domain), you can easily find their contact email id like "contact@xyz.com"
+3) Check the recruiter's name on linked in
+4) Check the domain on WHOIS (It will give you the complete information that who registered this domain.
+The above steps are more than enough instead of asking someone

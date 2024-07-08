@@ -1,0 +1,102 @@
+1) ABB
+2) Aditya
+3) Amco
+4) Bosch
+5)Catterpiller
+6)Federal moghal
+7)Doosan
+Bhuler
+9)Toyota boschko
+10) Toyota
+11) L&t hydraulics
+12)L&t const
+13) L&t komatso
+14) Fanuc india
+15) BFW
+16) Karmobiles
+17) Triveni
+1 Tafe
+19) Fair tech
+20) Quest global
+21) Cummins
+22) Schinder electric
+23) TDPS
+24) Suprajith engg service
+25) Volvo
+26) Weir minerals
+27) Kenna metal
+2 Komet group
+29Ashoka Leyland
+30)Mahendra
+31) Tata
+32)Essar
+33)BGR energy system
+34) Toyota kirloskar
+35)Honeywell automation
+36) Innovate minds
+37) Altair
+3 ENIT
+39) LINCOLN HELIOS
+40) AREVA T&D
+41)Hindustan turbo machinery ltd
+42) Promac engg
+43) Nauvata Engineering Pvt Ltd
+44) GERB vibration control system
+45) Dubaspower
+46) infotech enterprise
+47) ITC
+4 Konar engg service
+49) Moog
+50) Skf
+51) Siemens
+52) Varman aviation
+53)Milltech machinery
+54) Turbo tech
+55) Paloma turning
+56) Avasarala technologies ltd
+57) Tyco fire and security
+5 Tyco electronics
+59) Macmet
+60) STANDARD ELECTROMECH HOIST & CO
+61) RANAL ENGG
+62) Dantal hydraulics
+63) Baehal
+64) Harita
+65) ADA
+66) Good rich
+67) Sansera engg
+6 Dhio
+69) Kinetix engg
+70) San engg & locomotive
+71) Wiproinfra
+72) Disa india
+73) AK aerotek
+74) Indus aviation
+75) MICO
+76) REVA
+77) TVS motor
+7 VST TILLERS TRACTORS LTD
+79) Vi engg pvt ltd
+80) Unicorn power
+81) NV dynamics
+82) Taneja aerospace and aviation
+83) Air works
+84) Tesscorn
+85) VALDEL engineers and construction
+86) Dover
+87) tantrainfosolutions
+8 SIDIN CORE-TECH PVT LTD
+89) Grindwel norton
+90) Cadestech
+91) Impact engg
+92) Sansera engg
+93) GROWELL CNC
+94) SANDSTORM
+95) KPIT CUMMINS INFOSYSTEM
+96) JOHN CRANE INDIA
+97) Rotork
+9 Sfo technologies
+99) Ranka steels
+100) Guhring
+101) TaeguTec
+102) 3dplm 

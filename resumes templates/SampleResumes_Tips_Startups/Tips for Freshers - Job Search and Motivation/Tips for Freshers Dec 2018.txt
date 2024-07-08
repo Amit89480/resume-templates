@@ -1,0 +1,385 @@
+A job seeker has only 2 problems.
+
+1> Not getting interviews calls
+2> Unable to crack the interview.
+
+if you analyze yourself you will get to know these are two main problems.
+
+Now come to first Problem:
+
+Not getting interview calls: for getting the interview calls you have to write
+
+1> Elitmus exam : I have seen lot of people who scored around 140-150 score in eltimus and they are getting 15+ calls from elitmus. 
+I know lot of people who had not written the elitmus exam, or they have written 1st time and did not get good score and they did not write exams.
+Instead of wasting 15-20 thousands of money in coaching and 3-6 months of time in coaching you should write elitmus exam. When you go for coaching then coaching people used to say they will give you call but after 3-4 months after completion of course then only they will give you calls. You will waste 3-4 months in coaching better for your prepare well for Elitmus for 1 months and write exam if you prepare well then definitely you will get good score and you will get calls.
+
+Sometime by choosing coaching you guys get dependent on someone that he/she will help you for jobs. You are searching for the alternate way for getting to get job that is a long way and there is no surety that you will get job from coaching
+1 month preparations= elitmus exam(100% surety, if you will score well you will get call)
+Or
+3-6 months time= they will give you calls but it will be crowdy, chances will be less
+After giving 10-15 technical interview if you will feel like you need coaching then think about else no need to go for coaching with this purpose that they will placed you in IT.
+
+2> AMCAT : it is also a good Platform for getting good calls, if you wil score more than 85-90%ile in each section then you will get 12-15 genuine calls from them.
+
+3> Freshers world: I have seen comments and posts regarding freshers world in which they are telling its waste and all. But it is not true. I can seen last few months every week people are getting calls from freshers world and getting selected also
+They will provide u enough calls but u should follow this. 
+Mention all the technical skills in your resume which you are going to upload in Freshers world portal.
+Technical Skills Like : 
+Languages: C, C++, CORE JAVA, J2EE, JQuery, CSS, HTML5, 
+JAVA SCRIPT, ASP.NET, C#, Android, IOS.
+Data Base : SQL Server 2005, Oracle 10g, PL/SQL,
+Testing : Manual Testing , Selenium , ETL Testing, Automation
+Server side : Unix/Linux
+• Even in portal u can mention these technical skills , I hope u will get enough calls
+• Daily Update ur resume in freshers world portal , it mean u simply upload ur same resume in freshers world portal.
+
+4> Naukri.com:  how to get calls from naukri.com.
+
+Subject: Not getting interviews call letter from naukri.com
+
+Lot of people are saying that they are not getting calls from naukri. Please go through the below guidelines.
+
+On the request of on member I took my brother’s naukri profile and follow the same as I used to say everyone, and I got 8-9 interview calls from the companies for Technical IT jobs.
+
+There might be some reasons so you are not getting calls from naukari.com
+• Your Naukari.com profile is not 100%
+• Resume headline 
+• Key Skills and IT Skills
+• Single Preferred Location
+• How to and how many time update your naukri profile
+
+Resume Headline: Your resume headline should be like this. Please keep the same resume headline change ur branch or degree (if your branch is EEE, ECE,EI,ET or Mechnical and u are not getting interview calls then change ur branch to CSE in naukri profile, let’s do it for getting interview call from naukri)
+B.Tech Graduate in Computer Science. Having knowledge of Core Java, J2EE, J2SE, Advance Java, Hibernate, Spring, Manual Testing, Automation testing, Selenium, SQL, PLSQL,SQL Sever, C#, ASP.net HTML, CSS,Java Script, AngularJS, JavaScript, Database.
+
+Your Naukari.com profile is not 100%:
+It should be always 100% other your profile will be not be visible to all the IT Recruiters/HR. So make your profile 100%. For completing 100% profile, might be it required your photo to upload, then upload it, might be it required to verify your mobile number then verify it, might be it required to update your project details, then update your college project details. Whatever information is required that you can see on the Top-right side of your naukari.com profile.
+
+Key Skills: 
+A Recruiter/HR used to search the profile by key skills on naukari.com. So my suggestion is keep all the technical skills in your naukari.com profile 
+For Example: If I am a company HR and I am hiring the candidates for dot net profile which requires knowledge of C#, ASP.net, MVC and SQL server. Then what I will do I will keep these skills in search box and I will search for the candidates. So now if your resume and your naukri profile is having these skills then only I will get your profile else I will be not get your profile. Those profile will come to me soon who are updating frequently. And only those profile will be more visible to me who profile completeness is 100% complete. So please follow all these steps which we are sharing.
+Key Skills: Core Java, J2EE, JavaScript, JQuery, Hibernate, Spring, ASP.net, MVC, C, C++, Manual Testing, Selenium, Automation testing SQL, PLSQL, MY SQL Oracle 11g, HTML, CSS, PHP,
+You need to keep these above skills in below place in your naukri profile.
+
+You can keep the same technical skills in your resume also. If you know any other technical skills you can add.
+We are BE/BTech, MCA passed out , so we know how to prepare if call letter will come to other technology which I don’t know. We can prepare that much so we can able to clear the interview. And 100% I am giving surety that company will give you training before taking work from you so don’t worry. If you know 1 technology then you easily move to other technology.
+Please update IT Skills also like this
+
+Please don’t keep this kind of attitude “you have done java and you will go for java interview only”. Sometime, because of this kind of attitude we wait for a job for a long time.
+Single Preferred Location.
+if you will check your profile then it might be you have select only single preferred location. But you can keep maximum 3 Preferred location.
+Keep minimum 3 preferred location whatever you like Delhi/NCR, Hyderabad, Bangalore.
+Press CTRL button and choose any 3 preferred location as below
+
+Update your Profile:
+You should update your profile 3 times in a day. Because updated profile is more visible to Recruiter/HR.
+Lot of people have doubts what to update daily on naukri profile. If you profile is having all the above things which I have mentioned. Then you simply follow as below. 
+Go to My Naukari-> click on Edit -> Click on Save. : your profile got updated. This thing you have to do only.
+
+
+And once u saved it then u will get message .
+
+You can update your profile morning between 9:00-10:00 AM first time and 2nd time 11:00 AM-12:00 PM. And Again 3-4 ;00 PM and last 5-6:00 PM 
+If you are not going any drive then at least follow this time, but if you are outside then you can do it whenever you get time.
+We are sharing job links for applying but you guys are not applying by saying that you are not getting interview calls from naukri.com. It might be a reason that we do not give much importance to naukri.com because it’s free. I have seen big mnc drives including huawei, DELLEMC, Siemens, IMS Health, Tech Mahindra, Accenture, HCL etc through through naukri only
+
+Please start doing for a month u will get calls from naukri.com. And please don’t get frustrated when you are applying and not getting interview calls.
+
+Please feel free to ask if you have any doubts.
+
+5> Apply on the links with multiple ids: Please check MRA 4-5 times in a day and apply on the all the links which we post on MRA. 
+Please apply for all the job profile , all the locations, and any % criteria , not matter you have certificate or not but u should apply for all the links. Our problem is we are not getting calls, so we have to apply, we should apply. Then only will get calls 
+*********************************************
+Second Problem: Unable to clear the exam.
+
+We believe if you are getting sufficient calls and you really looking for job then 2nd problem will easily solved. Where could you be rejected. Keep analyzing yourself where you are lacking.
+
+Written:
+
+GD (optional) (in 90% company recruitment process no GD )
+
+Technical:
+
+Written Exam:
+
+if you have written few exams then I am sure same kinds of questions get repeated in the papers. So always remember if you are unable to solve any questions then solve it at home after the exam. 
+Now at this time if you are unable to clear written exam then really we should think about it because we almost completed 9 months time of job seeking. 
+Important aptitude questions:
+If you will go any company written test then u will find, mostly questions are from these aptitude topics.
+You can prepare these topics for written round:
+Problems on Trains
+Time and Work
+Profit and Loss
+Problems on Ages
+Chain Rule
+Alligation or Mixture
+Stocks and Shares
+Time and Distance
+Simple Interest
+Partnership
+Calendar
+Pipes and Cistern
+Probability
+Odd Man Out and Series
+Height and Distance
+Compound Interest
+Volume and Surface Area
+Percentage
+Problems on Numbers
+Ratio and Proportion
+Boats and Streams
+Note: for practicing these topics u can follow indiabix.com site.
+
+Group Discussion:
+
+I know this is toughest round of in interview for each state board passed candidates
+But it is not like that we can’t clear it. We can clear it.
+Before the GD , keep 1 pen and pencil with you, after giving the topic written few points about the topics in your note. Once they ask to start try to start first if u do not get chances then tell your points when you get time , make some eye contact with interviewer and other persons. Try to speak minimum 3 times of 10 mins GD. No matter if you are weak in communication but still you should try .
+
+Problem in Technical:
+
+While giving interview should take interest in answering the questions, make some such kind of environment that time so he/she should ask you more questions, don’t be in hurry. Don’t get confused, never say like you don’t know, say something related the topics
+
+From a fresher companies never expect advance knowledge from, they want the candidates who should have basic knowledge, they want those kind of candidates if we give them training then either they are able do the work or not.
+
+First of all the while giving interview, an interviewer always ask questions from your resume, so whatever technical skills you have mentioned in your resume, prepare them well
+
+C programming : you can get 1-2 C program in any technical interview.
+
+1> Write a program to print next to last word of a sentence
+2> Write a program to remove the vowels from the input string.
+3> Write a Program to convert uppercase to lower case and vice versa of a given string or sentence
+4> Write a program to reverse the string 
+5> Write a program to print a desired character from string 
+6> wap to enter a string then convert it into upper case
+7> .wap to enter a string then convert it into lower case
+8> wap to enter the String then remove vowels from the string.
+9> wap to enter the string remove the blank spaces from the string.
+10> wap to enter a sentence then find 2 last word of sentence
+11> wap to enter a string then convert the string into reverse order.
+12> wap to enter the string then find the respective ascii value of the string.
+13> wap to enter the string then count the length of the string.
+14> wap to enter the sentence then find the word from the sentence.
+15> wap to enter the string then delete the vowels from string.
+16> wap to enter the string then count the length of string.
+17> wap to enter the sentence then print it in reverse order
+18> wap to enter a string then count the no. of vowels in the string.input:-ABCD, output:-BCDE
+19> wap to enter a string then print the longest String in java string array
+20> WAP to remove comment lines .
+21> WAP to reverse the string like i love india so output will be - india love i
+22> WAP to find string is palindrom or not.
+23> WAP to find the length of string.
+24> WAP to find the number is power of 2 or not.
+25> WAP for string comparision.
+26> WAP of Bubble sort.
+27> WAP to find the LCM nd GCD.
+28> WAP to find the sum of digits in number like 245 so output will be 2 + 4 + 5 = 11
+29> Wap for fibnocci series for n number :0 1 1 2 3 5 8 13 21….
+30> wap(write a program ) to find out the highest number in given numbers 
+31> .WAP to reverse the string using linked list
+32> wap to remove the blanck space from the string without using built in function
+33> WAP for 2^n like 2^3..(search on google u will get answer)
+34> write a program to find out the sub string of a string without using built in function 
+35> wap for bubble sort, insertion sort, selection sort
+36> write a recursive function to find the length of the of string 
+37> write a recursive function to find the factorial of a number
+
+Data Structure: you should prepare few data structure concepts like:
+Linkedlist
+Queue
+Seraching
+Sorting
+Queue
+Array.
+
+Opps Concepts:
+Prepare Opps concept with live examples
+.
+SQL: in each technical questions you can find 2-3 questions from SQL also. You can get all the important questions for SQL from the below.
+
+1> What is DBMS? & What is RDBMS and difference between both.
+2> What is the difference between SQL and MySQL or SQL Server?
+3> What is the difference between SQL and PL/SQL?
+4> What are various DDL, DML,DCL commands in SQL? Give brief description of their purposes.
+5> Is a NULL value same as zero or a blank space? If not then what is the difference?
+6> What is constraints in sql and how many constraints are in SQL 
+Not Null ?
+Unique Key (prepare Unique key in details)
+Primary Key(prepare Unique key in details)
+Foreign Key(prepare Unique key in details)
+Check Constraint(prepare Unique key in details)
+Index(prepare Unique key in details)
+Default(prepare Unique key in details)
+7> What is difference between Delete , drop and truncate
+8> What is difference between where and having clause
+9> What is join and types of join with example?
+10> What is Union and Union ALL, difference between both
+11> What are the properties and different Types of Sub-Queries?
+12> Which TCP/IP port does SQL Server run on? How can it be changed? Answer: 1433
+13> What is index and types of index
+14> What is ACID property in database?
+15> What is the difference among NULL value, zero and blank space?
+16> Which are the different case manipulation functions in SQL?
+17> What is the usage of NVL function?
+18> Which function is used to return remainder in a division operator in SQL?
+19> What is the usage of DISTINCT keyword?
+20> What is Normalization and type of normalizations?
+21> What is SQL Injection?
+22> What is denormalization?
+23> What is a View?
+24> What is a Cursor? And type of cursor
+25> What are local and global variables and their differences?
+26> . What is Datawarehouse?
+27> What is OLTP and OLAP and difference between both?
+28> What is star Schema and snowflake Schema and difference between
+29> What is Union, minus and Interact commands?
+30> What is an ALIAS command?
+31> What are aggregate and scalar functions?
+
+32> What is the command used to fetch first 5 characters of the string?
+
+Answer: Select SUBSTRING(StudentName,1,5) as studentname from student
+
+33> How to fetch alternate records from a table?
+
+Answer: Select studentId from (Select rowno, studentId from student) where mod(rowno,2)=0
+
+34> How to fetch common records from two tables?
+
+Answer: Select studentID from student. <strong>INTERSECT </strong> Select StudentID from Exam
+
+35> How can you create an empty table from an existing table?
+
+Answer: Select * into studentcopy from student where 1=2
+
+36> SQL Query to find second highest salary of Employee ?
+
+Answer: select MAX(Salary) from Employee WHERE Salary NOT IN (select MAX(Salary) from Employ
+
+37> SQL Query to find Max Salary from each department.
+
+Answer:SELECT DeptID, MAX(Salary) FROM Employee GROUP BY DeptID
+38> Write SQL Query to display the current date.
+
+Answer:SELECT GetDate();
+
+39> Write an SQL Query to check whether date passed to Query is the date of given format or not.
+
+Answer: SELECT ISDATE('1/08/13') AS "MM/DD/YY";
+
+40> Write an SQL Query to print the name of the distinct employee whose DOB is between 01/01/1960 to 31/12/1975
+
+Answer:SELECT DISTINCT EmpName FROM Employees WHERE DOB BETWEEN ‘01/01/1960’ AND ‘31/12/1975’;
+
+41> Write SQL Query to find duplicate rows in a database? and then write SQL query to delete them?
+
+Answer: SELECT * FROM emp a WHERE rowid = (SELECT MAX(rowid) FROM EMP b WHERE a.empno=b.empno)
+
+And To delete:
+
+DELETE FROM emp a WHERE rowid != (SELECT MAX(rowid) FROM emp b WHERE a.empno=b.empno);
+
+42> What is a Composite Key ?
+43> What are COMMIT and ROLLBACK in SQL?
+44> What is RANK function?
+45> What is a materialized view?
+46> What is the difference between the NVL and the NVL2 functions?
+47> What is the difference between cross joins and natural joins?
+48> What is the purpose of the MERGE statement in SQL?
+49> What is the difference between VARCHAR2 AND CHAR datatypes?
+50> What is clone Table
+51> What is the difference between the RANK() and DENSE_RANK() functions? Provide an example.
+
+if job profile is java then you should have core java knowledge and hibernate
+if the job profile is dot net then prepare C# and MVC basics
+if the profile is Testing then should have manual Testing
+
+All the Study Java material is available in below link:
+
+https://drive.google.com/open?id=1rJrDgMZqe9erPrJCIrqCwT-mkJNsDo1u
+
+C programming Tutorials:
+https://www.youtube.com/watch?v=6VT8hDr2GhU&list=PLfVsf4Bjg79CZ5kHTiQHcm-l2q8j06ofd&fbclid=IwAR1aFFWn1-fjuO9JdOw_qcuJ6woHZ5klneQQ4iAvHz-DeFwxTdfCLVDWQ4E
+
+https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh&fbclid=IwAR0tRWyBJMsJQtD9dy6fHe7f6rk7RCNQxaHRYT1SmnRjwkGc0eba-UYQiW8
+****************************
+Data Structure Tutorials:
+https://www.youtube.com/watch?v=Db9ZYbJONHc&list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j&fbclid=IwAR0-7zkLYrvtmfetAT-H9HNsm9VFjAhyp9YTChr4n2Il80_nUCcJTpIPbmY
+
+Algorithms Tutorials:
+https://www.youtube.com/watch?v=aGjL7YXI31Q&list=PLEbnTDJUr_IeHYw_sfBOJ6gk5pie0yP-0&fbclid=IwAR037ec1nXa80CIJ4x7wLVYYYiu_0DKTLwMM0cSXLxVuojTaJIqAjqch1XQ
+
+*******************************
+Java Tutorials:
+https://www.youtube.com/watch?v=WOUpjal8ee4&index=1&list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK&fbclid=IwAR0zpJUkW-euoWqhJ98yBJgXgC7oM9DVLWiQaYomxqE8i_KCY3Vq2t61Z-E
+
+Durga Soft Tutorials for Java
+
+https://www.youtube.com/watch?v=eTXd89t8ngI&list=PLcj5PWxT3sFQqY7BheqtR9fUsPUv4I8sB&fbclid=IwAR2QVbobtY2XytRbvnuJ_7Scdh1wt_3VxgfuH2Mu8cCVSjptJ6thgmMIO1Y
+
+https://www.youtube.com/watch?v=gKqBPq3i62c&list=PLd3UqWTnYXOkIbQ-9MfOK4HOGo0Hdtuti&fbclid=IwAR10lLyXONm8JSqiOJp14F5UNPEQNQTAexcQ_pPBsn3DETdBLCS2q7dN-OU
+
+Edureka Tutorials for Java 
+https://www.youtube.com/watch?v=aqHhpahguVY&list=PL9ooVrP1hQOHb4bxoHauWVwNg4FweDItZ&fbclid=IwAR0fiITpeO29XmtSIJZWZ1tYyUXcIj9_I2lY46_CaAJWACXPrQCIp29elGQ
+******************************* 
+SQL Tutorials:
+Durga Soft
+https://www.youtube.com/watch?v=aaJF9vb4yKQ&list=PLd3UqWTnYXOnQ5a990TUv7FJVzB2M7h2O&fbclid=IwAR1AmzdqQEmUShHMrrW7w_pfOm4zHiUmGn-VCF5SsB2eY-peWX5ksdufPwQ
+
+KudVenkat
+https://www.youtube.com/watch?v=ZNObiptSMSI&list=PL08903FB7ACA1C2FB&fbclid=IwAR2wwOZBfDqLoN3qr2IBHCaZ4TgFMPzSCH0pLXL5VMNWSnW4S5T6BSD-h1I
+
+https://www.youtube.com/watch?v=0NLsJQCvKXY&list=PLL_LQvNX4xKwbz1aJe0RofbT9YeJH9huQ&fbclid=IwAR2Rz4TGM9ElFUtSFX6GZONTNXWDBuXR1ATAV1BgV4yUEi3Y4un-jrR9sjM
+******************************** 
+C# Tutorials:
+Kudvenkat:
+https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105&fbclid=IwAR3hhB5vnd2kakpjPR7efRomXnVPO0LFjODiyRbgVGZvYO-uASfDd-f9ayM
+
+Naresh IT
+
+https://www.youtube.com/watch?v=0u9k-kOR3KE&list=PLVlQHNRLflP-jc5Fbhfdhzv52AWYq836j&fbclid=IwAR2T9a4E6XAZFxPPRKHH80yR5_suMycXrnvsOAsarLGONRvf9Ix-NHFCK0A
+
+Durga soft:
+
+https://www.youtube.com/watch?v=Ky6t0htbFfg&list=PLd3UqWTnYXOlWPev8WgvnUQ7n9zBI5k_g&fbclid=IwAR3fIYXzFC7L4m1_ah4Jcs_O7oYiou1vHKQl_bw8BDFuN6UXK_tB-bvuL78
+****************************** 
+Testing Tutorials
+
+Manual Testing:
+
+Durga Soft
+https://www.youtube.com/watch?v=0ngiYR6PixI&list=PLd3UqWTnYXOkK9XcPwj_Yqaic8Ohpgh-n&index=1&fbclid=IwAR2YcxZowSfktYbV74lLYO_aKdwynJcdWC1MskxihviTZzx8BPJfzpceEMo
+
+Selenium Testing:
+
+Durga Soft:
+https://www.youtube.com/watch?v=HfW7zr8tIeQ&list=PLd3UqWTnYXOlYCP6MwVYxPu_KUBWg73u7&index=1&fbclid=IwAR3Mv4MneGtp5Aq4A_XahYRG2X6OhtEvlkd19M_7fa2HYB2yhFfqitI1kyQ
+
+Edureka:
+https://www.youtube.com/watch?v=5FUdrBq-WFo&list=PL9ooVrP1hQOFP9H8Y15DVGCA6GavhgJ8a&fbclid=IwAR1NR1mJjYNRIuAJGH55TvFLmTa6nxuQQzNZcy-QFWpN7WGJDUKvjAyI_G8
+*************************** 
+HTML Tutorials:
+
+https://www.youtube.com/watch?v=rvsV3vsneGE&list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6&fbclid=IwAR0GHwMuZb2hpT-DInUVpgcQGj4RfB9rXmpC0mPSpdRFX9yEtf8RBicGw1Q
+
+Web Technology:
+https://www.youtube.com/watch?v=JsbxB2l7QGY&list=PLVlQHNRLflP_hIZuBNjr6rZzqa2HZFkny&fbclid=IwAR1uGwpJuBuuYUTL-rDhh4ezzctTucZmBEptps2ietZRjEYKeYwfibU5YzA
+
+If you are having problems like don’t have % criteria or you don’t have training certificate etc.
+
+(Whatever tricks I am sharing with you, is my job seeking experience, I belong to MRA Jobseeker, this is MRA theory that if you will not try you will not get, HR will not come to your PG/Flat to give you offer letter. Below two tricks which i am sharing is already done by the job seekers and they got selected for job.if you have these two problems then you can follow these solutions.)
+
+If you don’t have 60% or 65% in any of the degree:
+
+If u don’t hve 60% in all degree then try to make ur % as 60% in ur resume & try to attend all the walk in , in the same manner , once u get selected in any company then no need to disclose your % criteria go through the verification 99% chances you will be selected, if they ask you about your % criteria then you can tell the truth and you can request them to consider it” because of less % you were not getting calls so you did like this, Please try to consider it”
+Now there are 2 chances: either they will select you else they will reject you, but chances are high for selections. No company is going to blacklist you for this small mistake
+
+All the person those who have less % are doing like this , that’s why I am saying like this. You can try in this way. No need to worry, nothing will happen, hardly they can reject you, but if you will not try , you wont get it.
+
+Training certificate problems: 
+I have seen lot of people they did not apply for the links because they have not a particular certificate or they do not attend the drive because certificate, they don’t have certificates.
+For getting certificate, you simply use Google , go to Google and type which type certificate you want, and download the certificate open the Photoshop edit your and training duration then take it color print out on thick paper and laminate, and now you have certificate. 
+Always remember these Certificates is never going verified.
+
+
+
+

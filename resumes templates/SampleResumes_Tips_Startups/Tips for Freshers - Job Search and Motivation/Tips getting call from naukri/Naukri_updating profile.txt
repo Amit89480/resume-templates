@@ -1,0 +1,50 @@
+Subject: Not getting interviews call letter from naukri.com
+
+Lot of people are saying that they are not getting calls from naukri. Please go through the below guidelines.
+
+On the request of on member I took my brother’s naukri profile and follow the same as I used to say everyone, and I got 8-9 interview calls from the companies for Technical IT jobs.
+
+There might be some reasons so you are not getting calls from naukari.com
+• Your Naukari.com profile is not 100%
+• Resume headline 
+• Key Skills and IT Skills
+• Single Preferred Location
+• How to and how many time update your naukri profile
+
+Resume Headline: Your resume headline should be like this. Please keep the same resume headline change ur branch or degree (if your branch is EEE, ECE,EI,ET or Mechnical and u are not getting interview calls then change ur branch to CSE in naukri profile, let’s do it for getting interview call from naukri)
+B.Tech Graduate in Computer Science. Having knowledge of Core Java, J2EE, J2SE, Advance Java, Hibernate, Spring, Manual Testing, Automation testing, Selenium, SQL, PLSQL,SQL Sever, C#, ASP.net HTML, CSS,Java Script, AngularJS, JavaScript, Database.
+
+Your Naukari.com profile is not 100%:
+It should be always 100% other your profile will be not be visible to all the IT Recruiters/HR. So make your profile 100%. For completing 100% profile, might be it required your photo to upload, then upload it, might be it required to verify your mobile number then verify it, might be it required to update your project details, then update your college project details. Whatever information is required that you can see on the Top-right side of your naukari.com profile.
+
+Key Skills: 
+A Recruiter/HR used to search the profile by key skills on naukari.com. So my suggestion is keep all the technical skills in your naukari.com profile 
+For Example: If I am a company HR and I am hiring the candidates for dot net profile which requires knowledge of C#, ASP.net, MVC and SQL server. Then what I will do I will keep these skills in search box and I will search for the candidates. So now if your resume and your naukri profile is having these skills then only I will get your profile else I will be not get your profile. Those profile will come to me soon who are updating frequently. And only those profile will be more visible to me who profile completeness is 100% complete. So please follow all these steps which we are sharing.
+Key Skills: Core Java, J2EE, JavaScript, JQuery, Hibernate, Spring, ASP.net, MVC, C, C++, Manual Testing, Selenium, Automation testing SQL, PLSQL, MY SQL Oracle 11g, HTML, CSS, PHP,
+You need to keep these above skills in below place in your naukri profile.
+
+You can keep the same technical skills in your resume also. If you know any other technical skills you can add.
+We are BE/BTech, MCA passed out , so we know how to prepare if call letter will come to other technology which I don’t know. We can prepare that much so we can able to clear the interview. And 100% I am giving surety that company will give you training before taking work from you so don’t worry. If you know 1 technology then you easily move to other technology.
+Please update IT Skills also like this
+
+Please don’t keep this kind of attitude “you have done java and you will go for java interview only”. Sometime, because of this kind of attitude we wait for a job for a long time.
+Single Preferred Location.
+if you will check your profile then it might be you have select only single preferred location. But you can keep maximum 3 Preferred location.
+Keep minimum 3 preferred location whatever you like Delhi/NCR, Hyderabad, Bangalore.
+Press CTRL button and choose any 3 preferred location as below
+
+Update your Profile:
+You should update your profile 3 times in a day. Because updated profile is more visible to Recruiter/HR.
+Lot of people have doubts what to update daily on naukri profile. If you profile is having all the above things which I have mentioned. Then you simply follow as below. 
+Go to My Naukari-> click on Edit -> Click on Save. : your profile got updated. This thing you have to do only.
+
+
+And once u saved it then u will get message .
+
+You can update your profile morning between 9:00-10:00 AM first time and 2nd time 11:00 AM-12:00 PM. And Again 3-4 ;00 PM and last 5-6:00 PM 
+If you are not going any drive then at least follow this time, but if you are outside then you can do it whenever you get time.
+We are sharing job links for applying but you guys are not applying by saying that you are not getting interview calls from naukri.com. It might be a reason that we do not give much importance to naukri.com because it’s free. I have seen big mnc drives including huawei, DELLEMC, Siemens, IMS Health, Tech Mahindra, Accenture, HCL etc through through naukri only
+
+Please start doing for a month u will get calls from naukri.com. And please don’t get frustrated when you are applying and not getting interview calls.
+
+Please feel free to ask if you have any doubts.

@@ -1,0 +1,215 @@
+Those who are from 2014,2015,2016,2017 and still searching job, don't be upset friends. Just keep #Faith in yourself and God. Make your heart more #Positive.
+
+As present situation of market, getting job in IT Industry is not so difficult but you have to prepare in a result oriented strategy.If you follow these steps then you'll get job easily.
+
+1.Be #Strong in #Aptitude Section .
+For Fresher Aptitude are the most critical part of the any Interview Process.If you attend any Interview,then first round is Aptitude. If you have good grief in aptitude,then you can easily clear Aptitude Round.
+For this you have to learn which are the best sites for Aptitude Questions.
+So, Learn from these following sites : 
+i)indiabix. com
+ii)m4maths.com
+
+2.Try to Attend Some #Premium #Exams:
+If you are still not getting jobs but you have very good marks in your academic year, then you can sit for Elitmus and AMCAT Exam.
+For #Elitmus : Refer Arun Sharma Book
+For #AMCAT : Refer R.S. Aggarwal Book
+
+3. #Sharp your #Mind :
+To get place in any startup or MNC,your very first duty is to sharp your mind and clear your basic concepts,there shouldn't be a small doubt in any topic.
+i) Data Structure(Stack,Queue,Linked List,Tree,Searching Algorithm,Sorting Algorithm)
+ii)Basics of C , C++, Java or .Net 
+a.OOPS Concept
+b.if else,switch case
+c.loops,
+d.pointer,
+e.functions,
+f.structures,
+g.thread
+h.Access Modifiers : public,private,protected
+i.Constructors
+j.macro
+iii)Basics of Database Concept
+a.DDL,DML,DCL,DQL etc.
+b.SQL Queries 
+Eg.find the 2nd highest marks from the student table.
+iv) Basics of Networking
+a.OSI Model,
+b.Hub, 
+c.Switch
+d.Router
+e.TCP Protocols etc.
+v) Practice some frequent common programs
+1)Palindrom , Odd number,Prime no,Magic no
+2)Armstrong Number,Strong Number
+3)Fibonacci series,
+4) Matrix Addition/Multiplication
+5)Reverse the string
+6)Duplicate element in an array, Merge two array in third array..etc
+7)Sorting Algorithm ,Searching algorithm 
+Merge Sort,selection, bubble, heapsort etc
+For preparation, you can refer your College Books or Internet.
+for more questions, you can visit www.indiabix. com.
+
+4. Apply all the #Genuine #Startup company :
+1:Maventic
+2:optical fusion
+3:TEST MILE
+4:Raremile ,
+5:nalasha solution.
+6:RDS infotech , Gocoop
+7:CHR Solutions,
+8:Dumadu Games
+9:novasys
+10:Trigent
+11:ISPG
+12:Lotex
+13:Dream Orbit
+14:paxterra.
+15: neominds
+16:predictive research
+17:Mportal..
+18:Amplified Commerce
+19:DewHive and Dream Tekis
+20:IAdmin
+21:POEL
+22:IdeaPoke
+23:Introspect Software
+24:Sigma infotech
+25:boston
+26:croissance
+27:Ibexi solutions
+28:testmile
+29:Hillsinfosoft
+30:calitate technology
+31:Versatiletech
+32:V2SOFT
+33:TESTMILE
+34:masymbol
+35:corasent
+36:TAVANT
+37:Wells Fargo
+38:i-exceed technology
+39:Nous systems
+40: inkoniq
+41: technosoft
+42:Dewhive
+43:Market Expander
+44:prism networks
+45:Consona
+46:Optebiz
+47:Remo Software
+48: Revtech
+49: v2soft
+50: estuates
+51: amplifi commerse
+52:Appiness
+53: dream takies
+54: softway solutions
+55: Goodthrough
+56: iolite
+57:Plintron
+58:Optebiz
+59:ISPG
+60:infoteq global solutions
+61:Oak System
+62:oligosoft
+63:thoughtworks
+64:amplifi commerce solutions pvt ltd
+65:BDI SYSTEM
+67:rnf technologies
+68:Sakhatech
+69:Pride info Technology
+70:Bcit
+71:Centris
+72:Verifaya
+73:Dewhive
+
+5. #Prepare about your #Project thoroughly:
+This round is the most important round because you have to face it when you clear your Aptitude round.
+In technical round or HR round, here are the some of most important question that you have
+to prepare about it.
+1)What is the role of yours in your Project?
+2)Is it Live Project?
+3)What is the Purpose of your Project?
+4)Did you done any coding part?
+5)Explain Your Project briefly?
+6. Make a Decent #Resume.
+You can search in google and you'll find decent but attractive resumes.
+7.#Improve Your #Communication Skills :
+a.Reading Newspaper daily
+b.While watching English Movie,try to pronounce the same word what they tell and how they use to tell
+c.Talk with your Roommates at least one hour daily.
+d.Last but not least, keep a positive, open and relaxed attitude. How you feel will come through in your body language and can make a major difference.
+8.Genuine #Consultancy :
+List of all genuine consultancy who are asking not a single rupee from you.
+
+Link : See the group description
+
+8.Join some Good #Training Institute :
+
+#Java :
+
+JSpider (good for learning as well as placement)
+• http://jspiders.com/
+• they have 3 branches in which Old airport road, and Baswangudi branch are good for learning purpose as well as placement 
+• Fee structure contact to institute 
+• If u have more than 60% in 10th ,12th and Btech/MCA/MSC then join this institute , otherwise don’t join , still u want to join then u can then plz first contact to institute then join 
+Uttara Infotech 
+• http://www.uttarainfo.com/
+• If u have more than 60% in 10th ,12th and Btech/MCA/MSC then join this institute , otherwise don’t join , still u want to join then u can then plz first contact to institute then join 
+• Fee structure contact to institute 
+Lara Technology (best for core java in Bangalore )
+• http://www.laratechnology.com/
+• Lara Technology BTM branch is good 
+• Fee structure contact to institute 
+• For placement plz contact to institute 
+JLC (good institute for java )
+• http://www.jlcindia.com/
+• Recently they have connected talentsprint for placement , so people are connected 
+• Fee structure contact to institute 
+• If u have more than 60% in 10th ,12th and Btech/MCA/MSC then join this institute , otherwise don’t join , still u want to join then u can then plz first contact to institute then join
+
+#Testing :
+
+Qspider (good for learning as well as placement)
+• http://jspiders.com/
+• they have 3 branches in which Old airport road, and Baswangudi branch are good for learning purpose as well as placement 
+• Fee structure contact to institute 
+• If u hve more than 60% in 10th ,12th and Btech/MCA/MSC then join this institute , otherwise don’t join , still u want to join then u can then plz first contact to institute then join
+
+Testing Campus 
+• http://www.testingcampusinfotech.org/
+• As per my knowledge Manual testing training is free for all 
+• Good for learning
+• For placement contact to institute 
+• Fee structure contact to institute
+
+*************************************** 
+#Dot Net
+
+Palle Technology 
+• http://techpalle.com/
+• Good for learning
+• For placement contact to institute 
+• Fee structure contact to institute
+
+9.For #Walkins and Recent #Job Updates :
+For daily walkin news and recent job updates,check our group daily.
+
+Also you can apply in
+Naukri.com
+Hirist.com
+indeed.co.in
+Freshersworld.com
+
+Yes,Chance is less to get job from these sites but you can get few calls from them.So you can try.
+
+10.For #Referrences : Make a Good #linkedin profile in which you should maintain a good #technical #skills & your good #resume in your linkedin profile.
+You can directly #connect and search the company name in linkedln search option & then you'll get employee of that company.Send a friend request to them on linkedin & connect with them,when you are connecting with them. Try to connect with all those people who has more than 3 years experience in IT industry.Once he/she get connect with you then you can request to him/her for references.
+Linkedln very safe social networking site,no #fake profile on linkedin.
+For getting references plz don’t go with facebook.Most profiles are fake.So don’t go for it.
+
+10.Talk with your #Parents : 
+While searching jobs if you loose your hope then talk with your parents and tell them what you are facing problems,I'm sure you can get the genuine path.
+
+I hope it will be useful for you to get job easily.

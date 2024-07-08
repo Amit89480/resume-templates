@@ -1,0 +1,110 @@
+Avago( Broadcom)
+AMD
+ARM
+Analog Devices
+Achronix
+Cypress
+Cadence
+Cavium
+Qualcomm
+Intel
+Imagination Technologies
+Infineon
+Invecas
+Texas Instruments
+NXP
+Nvidia
+Mediatek
+Marvel
+Microsemi
+Microchip(Atmel)
+Mentor Graphics
+MaxLinear
+Maxim Integrated
+Open Silicon
+On Semiconductor
+Synopsys
+Seagate
+Sandisk
+Samsung
+ST Micro
+Rambus
+Redpine Signals
+Global Foundries
+Juniper
+Cisco
+IBM
+Xilinx
+Hmicro
+Mobiveil
+Chelsio
+Sankalp
+Aricent(Smartplay)
+Mirafra
+Synapse
+Altran
+Alten Calsoft labs
+Tessolve
+Cyient
+TVS
+Sicon(Altran)
+Soctronics
+Waferspace
+Whizchip
+Semtronics
+Cerium systems
+Moschip
+Tata Elxsi
+einfochips
+Graphene
+Vishay
+Infosys
+Wipro
+LG Soft
+Logic Fruit 
+Mindtree
+L&T
+Ineda Systems
+Masamb
+Saankhya Labs
+Adroit IC Design
+DXCorr
+Dexcel 
+Perfect VIPs 
+Eximius
+Aquantia
+HCL
+Lattice Semi
+Sasken
+Truechip
+Si Valley
+Sion Semi
+Savytech
+Sivaltech
+Si2Chip
+3D-IP-Semi
+Coreel
+Interra
+Sibridge
+Ensilica
+Terminus circuits
+Vayavya Labs
+Innovative logic
+Album Semi
+Orange Semi
+Applied Micro
+Knowles
+Zia Semi
+Realsilicon
+Adeptchips
+Blackpepper
+Data patterns
+InSemi
+Mindlance
+UST Global
+Siliconus
+Pozibility
+Circuit Sutra
+Veriworks
+Aspeed
+Signalchip

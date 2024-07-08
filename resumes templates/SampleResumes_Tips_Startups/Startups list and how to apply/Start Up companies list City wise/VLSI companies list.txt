@@ -1,0 +1,97 @@
+Agilent Technologies (Blore)
+Altera
+AMD (Hyd)
+Analinear Technologies (Hyd startup)
+Analog Devices (Blore)
+Arasan Chip System (Blore)
+ARM (Blore)
+Atheros (Chennai) Acquired by Qualcomm
+Atmel (Chennai)
+Beceem (Blore)
+BlackPeppertech (Blore)
+Broadcom (Blore)
+Brocade (Blore)
+CGCoreEL
+Cirrus logic
+Cisco(Blore)
+Concept2Silicon
+Cosmic circuits(Blore)
+CVC (Blore)
+Cypress Semiconductors(Blore)
+einfinitus
+Einfochips
+EVE
+Firstpass-semi (Hyd)
+Freescale semiconductors
+GD micro
+IBM
+IDT(Blore)
+Ikanos communications(Blore)
+Infinera
+Infenion
+Insilica
+Intel (Blore)
+Interra systems
+Ittiam
+Juniper Networks (Blore)
+Karmic (Manipal)
+Kasura Technologies (Blore)
+Kawasaki Micro (Blore)
+KPIT Cummings
+Lattice Semiconductor
+LSI (Blore,Pune)
+Magnachip not in india
+Mbitwireless
+Microchip (Blore)
+Micronas not in india
+Mindspeed (hyd)
+MindTree
+Mirafra Technologies (Blore)
+MRO-TEK
+Moschip Semiconductors
+Mosys (Hyd)
+National Semiconductor
+Encore
+Netlogicmicro (Blore)
+nvidia (Blore, Hyd,Pune)
+NXP Semiconductors (Blore)
+Open-silicon (Blore)
+Orca systems (startup in analog and RF systems ) (Blore)
+Ordyn (Blore)
+Perfectus (Blore, Bhubaneshwar)
+picoChip
+PMC sierra (Blore)
+Qlogic (Pune, Blore)
+Qthink Technologies
+Qualcomm (Blore)
+Rambus(Blore)
+Rancore Technologies
+Redpine Signals (Hyd)
+Rensas
+Sasken communications (Blore)
+Sandisk (Blore)
+Samsung (Blore,Noida)
+Scolish Technologies (Chennai)
+Semindia (Hyd)
+Sibridge Technologies
+Silabs not in india
+Silicon hive (Blore)
+Smart-dv (Blore)
+Smartplay (Blore)
+Soctronics (Hyd)
+ST Microelectronics
+Tanmic (Blore startup)
+Tata Elixi
+TCS (Bangalore)
+Tejas networks (Blore)
+Teranetics
+Texas instruments (Blore)
+Transwitch
+Tundra semiconductors (Hyd)
+Vinchip Systems
+Vitesse semiconductors
+Whizchip (Blore)
+Wipro (Blore)
+Xambala (Chennai)
+Xilinx (Hyd)
+Zarlink Semiconductor

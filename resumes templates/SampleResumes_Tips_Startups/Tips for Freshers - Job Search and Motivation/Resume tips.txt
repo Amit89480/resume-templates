@@ -1,0 +1,31 @@
+1. IN top of your resume Left side add your Name, Email id and contact Number.
+
+2. In TOP Header add Text as RESUME 
+
+3. OBJECTIVE :- For example " “To learn with the growth of your esteemed organization by Working hard with Total Dedication, Integrity, Honesty and Sincerity” 
+
+4. Educational details :- Make it in tabular format and add your details properly.
+
+5. Technical Skill :- Add your all relevant Technical skill, i.e Java, testing,.NET, and whatever you know...#Don't add any skill if you don't aware...#Or you can add with mentioning basic knowledge. 
+
+#FOR Example :- 
+
+4. Project details :- Add project details in below format...
+
+> Project Name :- 
+
+> Project description :-
+
+> Team Size :-
+
+> Your Role :- ( Like UI / Backend-Dev/ Tester/ etc....
+
+> Your Roles and responsibility in Project. :- Whatever you did in PROJECT, Please add it perfectly. 
+
+5. Certification details If you already did.
+
+6. Add your Blogs/ Projects link if you have 
+
+7. Hobbies and achievement
+
+8. Declaration with your Name and Thanks Note!

@@ -1,0 +1,39 @@
+As a Fresher it's very Important how you present your profile infront of others.
+Follow below procedure to make your resume more effective and to update your profile in different job portals.
+-> Career Objective in Resume -> This is Very Important your career objective should be related to the company growth and your growth.
+-> In Naukiri.com -> same thing you have to update as key skills -> Example :
+(Immediate Joining) 2015_ECE_Fresher_65% ----Than update your career objective here.
+--> Academic Credentials in Resume -> Update in Table Format ->
+Branch - Year of Passout - % - University
+--> In Naukiri.com -> Update Industry column as IT SOFTWARE OR (If you are Interested
+in server side Update as IT CLIENT SERVER)
+Highest Degree - Btech
+Current location - Bangalore
+Preferred Location - select multiple
+Role - Tester / System admin / Java Developer etc etc.
+---> Technical Skills in Resume -> Update your Technical skills you have. Example -
+C
+C++
+Basic Java etc etc .....
+--->In Naukiri.com ->
+Update your IT SKILLS and Your Profile Skills.
+Update your Profile Summary -> Update everything you know. For example :
+Solid background in technical support, capacity planning , security & Deployments of servers.Experience working in fast-paced, deadline-oriented environments.Perform software installation, upgrades/patches, troubleshooting, and maintenance on UNIX servers.Analyze and resolve diagnostic problems on AIX systems and did MKSYSB restoration through NIMADM.Participate in root-cause analysis of recurring issues, system backup, and security setup.Monitored, troubleshot, and resolved issues involving operating systems.Participated in on-call rotation to provide 24×7 technical support.User ID management , Patch management, Incident management and Change management
+----> College Project -> This is very important section which interviewer check. Update properly. With below mentioned details -
+About Project
+Your Role
+Your Contribution
+Working and how it's benifical for others.
+How it can be helpful in Day to Day life.
+----> In Naukiri.com -> Update your College project as Working project in naukiri. If you are looking for a Job in IT sector than try update some programming related project.
+-----> Strength & Weakness , Personal Details & Declaration in Resume ->
+Update all your strengths and Personal details .
+Name 
+DOB
+Father Name
+Passport No
+Address 
+Marital Status
+Languages Known
+Mobile number
+Update your profile daily in morning :)

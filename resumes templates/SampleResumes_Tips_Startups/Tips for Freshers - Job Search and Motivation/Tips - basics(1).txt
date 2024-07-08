@@ -1,0 +1,92 @@
+1. When you send email to any HR always send application with proper details like
+
+#Subject_line : Btech(ECE) 2016 java Fresher with 78%
+
+Hello Sir/Mam
+Good Day!!!!
+
+Thank you for considering my profile for this opportunity. Please find my details below and resume and cover letter is enclosed.
+
+Name - 
+Email -
+Mobile Number - 
+DOB -
+10% -
+12% -
+Current location -
+Notice period - (Fresher update as immediate)
+Technical skills - (in brief)
+
+Thanks & Regards,
+Pavan Pathak
+
+===============================================
+
+2. Whenever you attend any interview make note of these points
+
+-> If rejected why ?
+-> How many questions you didn't answered ?
+-> What you learnt ?
+-> What mistake you did ?
+-> If any program is there recall it and try to make the same program in different different way.
+-> Rate yourself on scale of 10 and think where you can improve?
+-> Note down the point and before attending next interview work on them.
+
+===============================================
+
+3. Only technical skills not required to get job. You have to work on all areas.
+
+So start your preparation in a well planned manner Like -
+
+1) Aptitude & Reasoning - If you are technically very good but you don't have good apti and reasoning knowledge than no use of your skills as this is the elimination round in all the companies. 
+So give more time to aptitude and reasoning.
+
+Prepare common topics which usually asked in all companies :
+
+-> Speed Time and Distance.
+-> Profit loss
+-> %
+-> AP GP
+-> Blood relation
+-> Number system 
+-> Syllogism 
+-> Mixtures 
+-> Series
+
+These are few common topics which you should prepare first.
+
+2) GD or JAM -
+This round is also an elimination round. So try to work on it more and everyday give 1 hour for communication skills.
+
+If your communication is not good start working.
+
+-> Watch cartoon in English.
+-> Communicate with your friends in english.
+-> Read newspaper, learn 5 new words from dictionary and try to make sentence.
+-> Try to solve people queries in english stop talking in regional language.
+-> Best way is make a friend who don't know hindi or regional langauge so forcefully you have to talk in english with him/her.
+
+3) Technical Round -
+
+If you are a fresher nobody expect you to be a pro what they check is how confident you are.
+
+So learn any coding language and learn one platform(OS)linux or unix.
+
+And those who are new before attending any drive atleast prepare these common programs.
+
+-> String reverse
+-> Odd even
+-> Addidation , substraction , Muliplication.
+-> Array
+-> Fibonacci series
+-> Palindrome series
+-> Pattern programs 
+-> Basic looping programs
+
+4) HR round / Manager Round -
+
+Communication is the key to crack this round just work on communication skills.
+
+#HR_Questions
+
+https://m.youtube.com/watch?v=timZn9WyGLw&feature=youtu.be

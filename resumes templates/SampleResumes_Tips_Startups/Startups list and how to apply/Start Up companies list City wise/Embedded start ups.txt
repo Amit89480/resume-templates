@@ -1,0 +1,121 @@
+As per as my concern if you want to work in Embedded domain, you have to grow your knowledge in core electronics domain , Now lets talk about to Embedded Systems. For Knowing how An Embedded System works you have to know certain things and go step by step.
+
+1). Learn C programming thoroughly(Bit-wise Operator/Call by value/Call by reference/Pointer/Array/Function/Structure/Dynamic Memory Allocation).
+
+2). Learn Electronics (Electronic Devices and Circuit Theory) (PDF you can find in web) and Digital Electronics.
+
+3). Learn Micro-controller from basic to higher version (AT89c51/Arduino/ARM/STM32F427).
+
+4). Learn Communication Protocol(I2C/SPI/UART/CAN).
+
+5). Get practical hands on experience in tools(KEIL uVision, AVR Studio, Arduino,STm32 Cube, Proteus) , where you will know how to write, debug and dumped a code in micro-controller.
+
+6). Build some DIY kits(Sensor Shield/GSM shield/Ultrasonic Sensor).
+
+Now Lets come to the Linux part. Different websites are there for learning. But its upto u how you are grabbing.
+
+Steps to be followed:
+
+Learn basic Linux command(pwd/ls/mkdir/fprintf/fscanf/fopen/fclose)
+Learn Signal/Alarm/wait/sleep cooammand
+Learn IPC deeply(Pipe/Named Pipe/Shared Memory/Message Queue)
+Learn Thread and process (how to create thread, process and communication beetween them ).
+Semaphore and mutex.
+Socket Programming(create/bind/accept/listen/read/write/close)
+After completion of this , then go to driver part.
+
+Less theory and do coding.
+
+I hope Definitely it will help.
+
+So Here is the Embedded Companies List (MNCs Included)-->>
+===============================================
+
+1. Yuktix Technologies Private Limited
+2. Einfochips
+3. SMSC
+4. Dexcel Designs
+5. Jasmin Infotech Private Limited
+6. Automotive Infotronics
+7. Robosoft systems
+8. Mistral solutions
+9. Renault Nissan Automotive India Private Limited
+10. Sasken communication technologies ltd
+11. ETAS automotive
+12. Rockwell well India
+13. Tata Elxsi
+14. Siemens
+15. KPIT Cummins Info systems
+16. L&T InfoTech
+17. Ashok Leyland
+18. General Motors
+19. Cisco Systems India Pvt Ltd
+20. John Deere India pvt ltd
+21. Robert Bosch engineering and business solutions limited
+22. Visteon Corporation
+23. Delphi automotive
+24. Freescale
+25. Texas Instruments
+26. VOLVO
+27. LG Electronics
+28. Motorola
+29. Philips
+30. Adormi
+31. Asteria
+32. iWave Systems Technologies Pvt. Ltd.
+33. Indo Fuji
+34. Procsys
+35. Sattva etech
+36. Pathpartner Technologies
+37. Cerium Systems
+38. Kuberre systems
+39. Collabera
+40. Tecvulcan
+41. Centum electronics
+42. Asmaitha Wireless Pvt Ltd
+43. CS communications & systems
+44. Logic fruit technologies
+45. Celerix Technologies
+46. Oxys-tech
+47. Continental
+48. Aurasemi
+49. Masamb Electronics Systems
+50. Tessolve
+51. Novelic
+52. Cosmic Circuits
+53. Arf-design
+54. Perfectus
+55. Lucid Imaging
+56. Embedded Technology Labs
+57. Park Controls & Communications pvt Ltd
+58. Samsung Research India
+59. Nvidia
+60. Qualcomm
+61. Symphony teleca
+62. Broadcomm
+63. Huawei
+64. Ericsson
+65. Toshiba
+66. ARM
+67. Maxim
+68. Accord Software Systems
+69. SanDisk
+70. DevSys Embedded Technologies Pvt Ltd
+71. Ittiam Systems
+72. Indocen Electronics Systems Pvt. Ltd.
+73. MAPYN Technologies
+74. Maven Systems Pvt. Ltd.
+75. Dynalog (India) Limited
+76. NavStik
+77. SoftDEL Systems
+78. GVC Systems Pvt Ltd
+79. STB & DTV Design Services
+80. GlobalEdge - Intelligence of Things
+81. Tevatron Technologies
+82. Variscite
+83. Intrinsyc
+84. Kontron 
+85. Phytec 
+86. Adlink 
+87. Digi 
+88. Advantech 

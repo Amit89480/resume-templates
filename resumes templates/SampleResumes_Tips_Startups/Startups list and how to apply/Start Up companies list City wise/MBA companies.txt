@@ -1,0 +1,304 @@
+FINANCE :-
+========
+Federal Bank
+Canbank Factors
+Deloitte Consulting
+Deutsche Bank
+Mahindra & Mahindra Finance
+Mata Securities
+ERNST & YOUNG
+IndusInd Bank
+Disha Investment
+Finance World
+HSBC Bank
+Pantheon Investments
+Pelican Wealth Management
+MULTIFONDS
+Almondz Global Securities
+IDBI Bank
+IDBI Intec
+ING Vysya Bank
+Religare Securities
+Sahara Asset Management
+ANZ Grindlays
+India Infoline
+Ion Exchange
+Canara Bank
+Sprism Investments
+Stock Holding Corporation of India
+Angel Broking
+ICICI Bank
+ICICI Securities
+Indian Overseas Bank
+South Indian Bank
+Allahabad Bank
+Karvy Stock Broking Ltd
+HSBC
+Kotak Mahindra Bank
+Kotak Securities
+The South Indian Bank
+Thomson Corporation (International Ltd)
+
+MANUFACTURING :-
+===============
+Ace Designers
+Bridgestone India Pvt. Ltd
+Kotak Urja
+Berger Paints
+E&C Power
+Somany Ceramics
+Ceasefire Industries
+Gokuldas Images
+Havells India
+D-LINK India
+Kurl On
+HAVELLS India Limited
+
+INSURANCE:-
+==========
+HDFC Standard Life Insurance
+ICICI Prudential
+IFFCO-TOKIO
+Kotak Life Insurance
+Max New York Life Insurance
+Reliance Life Insurance
+
+INFORMATION TECHNOLOGY:-
+=========================
+Accenture
+Greet Technologies
+IBM
+IIHT
+INS zoom
+Sami Labs
+Tally Solutions
+Zycus Infotech
+Bacon
+OPT IT Technologies
+SAP Labs
+Satyam Computers Services India Ltd
+SECON India Pvt. Ltd
+Sobha Renaissance IT Ltd
+WEBYOG
+Wipro Technolgoies
+L&T Infotech
+Third Wave
+Magnasoft
+Tesco
+Lucid IT Solutions
+Readiminds
+Squotient [Microsoft Partner]
+Team Computers
+VSM Software
+Symmetric Technologies
+Quadwave
+
+LOGISTICS:-
+=========
+GATI
+V Trans
+Flyjac Logistics
+TNT India
+Indelox
+TCI
+Budget Couriers
+TCIL
+Kuehne Nagel
+
+FMCG:-
+======
+Coca-cola
+Dabur India
+Eli & Lilly
+Colgate Palmolive
+British Nutritions Limited
+Reckitt Benckiser
+Eureka Forbes
+Lexi Pens
+Johnson & Johnson
+Biotique Cosmeceuticals
+Nestle India
+
+ITES:-
+=====
+Accenture
+Cross Domain
+Firstsource
+IBM Daksh
+ISTQ Solutions
+Unisys
+
+CONSULTANCY:-
+=============
+9 to 6 Consultancy
+D-Link India
+Empower Research
+Fides Global
+HR One
+Neem Tree Consultancy
+Peoplepro Consultants
+Deloitte Consulting
+Helix Technology Solutions
+Next Education India
+Bajaj Finance
+ERNST & YOUNG
+JP Morgan
+MULTIFONDS
+Mahindra Finance
+Thomson Reuters
+pectrum Consultants
+Sri Shankaracharya Gurukul Education Trust
+Synapse India
+Way2Wealth
+Wenger & Watson
+Career Net Consulting
+Beroe Inc.
+TMI First
+Jaro Education
+ARC Advisory Group
+Deloitte India Pvt. Ltd.
+ICICI Securities
+Reliance Asset Management
+
+AUTOMOBILES:-
+=============
+FORD INDIA 
+
+HOSPITALITY:-
+===========
+Sash Inn
+Sheraton Group of Hotels
+Ista Group of Hotels
+ITC Windsor Mannor
+ITC Royal Gardenia
+The PARK Group
+Oakwood Prestige Group
+Svenska Hospitality
+La Marvella Hotel
+Taj Hotels
+Oberoi Group
+Mast Kalander
+Cold Stone Creamery and Tim Hortons
+Royal Orchid Group of Hotels
+Sayaji Hotels
+Ginger Hotels
+Cafe Coffee Day
+Basil Group of Hotels
+Leela Palace
+Green Park
+Confident Group
+Orange County
+Royal Caribbean
+Movenpick Hotels
+The Lalith Ashok 
+
+AIRLINES:-
+========
+Kingfisher Airlines
+Jet Airways 
+
+MEDIA & ADVERTISING:-
+===================
+Deccan Chronicle
+Helix Technology Solutions
+LBF Publication
+Hungry Bangalore
+Magnus Advertising
+TIMES OF INDIA
+My World Space
+Business Standard
+LEADS Animation
+Origami Creative Concepts
+Vaartha
+Sri Shankara Channel
+BRAND COMM
+4TH Room Advertising
+
+RETAIL:-
+======
+Aditya Birla [Grasim Industries]
+Staples Future Office Products
+Smart Retail
+Max Hyper Market
+Shoppers Stop
+Sri Krishnaiah Chetty & Sons
+Spring Leaf Retail
+Pantaloon Retail
+Brand Calculus
+Spoon of Sugar 
+Bsta India
+Lifestyle Stores
+Reliance Retail
+VIP Industries
+
+RESEARCH:-
+==========
+Advinus [Tata Enterprise]
+Empower Research 
+
+ONLINE TRADING:-
+===============
+Indiamart.com
+
+REAL ESTATE:-
+============
+CBRE
+Indiaproperty.com 
+
+PHARMA:-
+========
+Astra Nutraceuticals
+Bal Pharma
+ABBOTT India
+Eli Lily and Company
+Lupin Limited
+Biocon India
+Millipore India Limited
+Advinus Therapeutics
+Indegene Life Systems 
+MICROLABS
+
+HOUSEHOLD:-
+===========
+Berger Paints
+Somany Ceramics
+Eureka Forbes 
+
+CONSUMER DURABLES:-
+====================
+Blue Star Limited
+Reliance Digital
+
+TELECOM:-
+=========
+Bharti Airtel
+Essar
+Matrix Cellular
+Reliance Communication 
+
+MARKET RESEARCH:-
+=================
+Datamonitor
+Empower Research 
+
+RECRUITMENT:-
+=============
+Allegis Services limited
+Kiyaah Consultancy
+ALP Consulting
+Metis India Irc
+Antal International
+Mindlance
+Aries Global
+Naukri.com
+Career Net Consulting
+Sapphire Huan solutions
+HR One
+Wenger & WAatson Inc
+OTHERS
+ISS Integrated Facility Services
+Ricoh Global
+Beroe Inc
+FORD India
+Alcatel Business solutions
+Sab miller 

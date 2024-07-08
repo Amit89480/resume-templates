@@ -1,0 +1,22 @@
+As we all know IT - Industry is huge & always requirement is there for multiple profile. So in this post basically I will give you an overview related to Profile Roles & Responsibilities.
+In any IT company there are 3 Major profiles.
+Development Profile or Software Engineer profile. Infrastructure Profile or System Engineer / System Administrator.Tech Support.
+1. #Development_Profile or #Software_Engineer profile
+Software Developer profile is a key profile. Here you are responsible for Writing programs , Fixing Bugs , Testing of applications , Providing Production support (You will work on tickets and you have to Fix issue within SLA(service level agreement).
+Most of the time you'll work a 37 to 40 hour week, but you might have to put in longer hours when there are deadlines to be met. This could mean the odd evening or weekend.
+Onsite opportunities are there but Depends on project requirement.
+Salary range for fresher (MNC) - 3lac to no - limits
+For experienced - no bar
+2. #Infrastructure_Profile or #System_Engineer / System Administrator.
+This profile is very important for IT. You will provide services to clients related to Infra-support.
+In this profile you have to work 24*7 and depends on project requirement. If you are a pure techie you can learn a lot.
+In this profile you will work on middleware , OS , Application etc etc. You will do installation and configuration of various tool and application and will end up providing end to end support.
+Communication skills is very much required for this because you have to deal directly with clients and application team. You have to work on rotational shifts and you have to provide extended weekend support.
+As per my point of view it's a good profile to start your career.
+Salary range for fresher (MNC) 3lac to no - limits.
+Experienced - depends on knowledge and skill set.
+Onsite opportunities are there and depends on project requirement.
+3. #Tech_support.
+If you are having good communication skills , If you can convince people easily , If you like troubleshooting this is the best profile to work. I will suggest not to start your career in tech support because of rotational shifts . You may work on weekly rotation or monthly rotation depends on salary requirement. Here growth is fully depends on your talent.
+Salary range for fresher (MNC) - 15k - to 30k
+Experienced - depends on skillset
